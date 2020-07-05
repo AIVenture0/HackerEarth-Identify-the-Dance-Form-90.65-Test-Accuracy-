@@ -2,7 +2,7 @@
 
 <center><img src="https://media-fastly.hackerearth.com/media/hackathon/hackerearth-deep-learning-challenge-identify-dance-form/images/b163aaca99-DanceForm_FB.jpg" height=400 width=700/></center>
 
-### [48 Public Leaderboard Ranking -Score 90.65](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/leaderboard/identify-the-dance-form-deea77f8/page/1/)
+### [48th- Public Leaderboard Ranking -Score 90.65](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/leaderboard/identify-the-dance-form-deea77f8/page/1/)
 
 Build an image tagging Deep Learning model that can help the company classify these images into eight categories of Indian classical dance.
 
